@@ -4,7 +4,7 @@
 **Overview**
 
 
-This project is a hands-on experiment with neural networks, to understand how forward and backward prop works. 
+This project is a hands-on experiment to understand neural networks, specifically to see how forward and backward prop works. 
 Fashion-MNIST dataset is used. Model Evaluation, Inference and Visualization is supported.
 Also, activation functions and ADAM optimizer are implemented.
 
