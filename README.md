@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a hands-on experiment aimed at understanding neural networks, specifically focusing on the mechanics of forward and backward propagation. It utilizes the Fashion-MNIST dataset and supports model evaluation, inference, and visualization. Additionally, it implements various activation functions and the ADAM optimizer.
+This project is a hands-on experiment to understand neural networks better, specifically the mechanics of forward and backward propagation. It utilizes the Fashion-MNIST dataset and supports model evaluation, inference, and visualization. Additionally, it implements various activation functions and the ADAM optimizer.
 
 ## Note
 
